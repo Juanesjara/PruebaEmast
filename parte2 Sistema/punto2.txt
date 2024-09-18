@@ -1,0 +1,5 @@
+Para hacer la funcionalidad agregar el carrito yo propondria hacerla en el producto, cuando el usuario ejecute esta funcionalidad,
+la funcion primero indentifique el usuario que la esta usando ya sea por las cookies o por cualquier metodo de guardado de informacion
+luego que indentifique el id del producto al cual le este dando click ya sea que este esté implicito o en el producto o en la funcion, despues que compruebe
+si el usuario tiene un array creado con ya productos para que solo sea agregarlo o en el caso que no tenga uno le cree dicho array de productos para 
+agregarlo.
